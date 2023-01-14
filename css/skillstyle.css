@@ -1,0 +1,58 @@
+.skill_body {
+    background-image: linear-gradient(rgba(84, 168, 211, 0.6),rgba(84, 168, 211, 0.6)) ,url('/images/skills.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.skill_p {
+    color:rgb(0, 52, 97);
+}
+.my_skills{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    padding-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.website_img {
+    object-fit: contain;
+    border-radius: 50px;
+    width: 100%;
+    height: 100%;
+    border: 2px solid white;
+}
+.skill_para {
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 0px;
+}
+.skill_para_1 {
+    border: 3px solid white;
+    border-radius: 30px;
+}
+.skill_para_1 h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 10px;
+}
+.skill_para_1 p{
+    text-align: justify;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 10px;
+}
+.skill_para_1 h5{
+    padding-left: 17px;
+}
+
+.skill_para_1 {
+    background-color: rgba(125, 255, 255, 0.407);
+}
+.skill_footer {
+    width: fit-content;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}

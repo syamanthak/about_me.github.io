@@ -1,0 +1,33 @@
+.edu_body {
+    background-image:linear-gradient(rgba(155, 53, 53, 0.274),rgba(155, 53, 53, 0.274)), url("/images/education.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+}
+.edu_p{
+ color: white;
+}
+.heading > h1 {
+    text-align: center;
+    color: white;
+    transition: 0.3s ease-in;
+}
+.column-2a {
+    float: left;
+    width: 100pxpx;
+    padding: 50px;
+    padding-left:70px;
+    padding-right: 70px;
+    padding-bottom:60px;
+    height:350px;
+    margin: 100px;
+    margin-right:10px;
+    margin-bottom: 40px;
+    background-color:rgba(255, 255, 255, 0.667);
+  }
+.table_col{
+    padding-left: 200px;
+}  
+.edu_footer{
+    text-align: center;
+    color: white;
+    margin-top: 700px;
+}

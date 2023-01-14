@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+.about_body{
+    background-image: linear-gradient(rgb(0,0,0,0.60),rgb(0,0,0,0.60)) ,url('/images/laptop.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.testimonial{
+    padding-top: 100px;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-family: 'Poppins', sans-serif;
+}
+.my_image{
+    width:200px;
+    height: 200px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+.testimonial{
+    text-align: center;
+}
+.testimonial h1{
+    font-size: 30px;
+    font-weight: 500;
+    color: white;
+    text-decoration: underline;
+    letter-spacing: 1px;
+}
+.p1{
+    font-size: 24px;
+    font-weight: 500;
+    color: rgb(139, 234, 147);
+    padding-top: 50px;
+}
+.testimonial h5{
+    font-size: 30px;
+    font-weight: 500;
+    color: white;
+    padding-top: 30px;
+}
+.p2{
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    padding-top: 50px;
+    text-align: justify;
+}
+.head_p{
+    color: rgb(139, 234, 147);
+}
+.my_footer{
+    padding-top: 40px;
+    text-align: center;
+}
+.my_footer p {
+    color: rgb(139, 234, 147);
+}
+.exp_p{
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    padding-top: 50px;
+    text-align: center;
+}
+.exp_body{
+    background-image: linear-gradient(rgb(0,0,0,0.60),rgb(0,0,0,0.60)) ,url('/images/exp.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
