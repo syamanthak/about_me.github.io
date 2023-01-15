@@ -1,5 +1,5 @@
 .edu_body {
-    background-image:linear-gradient(rgba(155, 53, 53, 0.274),rgba(155, 53, 53, 0.274)), url("/images/education.jpg");
+    background-image:linear-gradient(rgba(155, 53, 53, 0.274),rgba(155, 53, 53, 0.274)), url("../images/education.jpg");
     font-family: Arial, Helvetica, sans-serif;
 }
 .edu_p{
