@@ -1,5 +1,5 @@
 .skill_body {
-    background-image: linear-gradient(rgba(84, 168, 211, 0.6),rgba(84, 168, 211, 0.6)) ,url('/images/skills.jpg');
+    background-image: linear-gradient(rgba(84, 168, 211, 0.6),rgba(84, 168, 211, 0.6)) ,url('../images/skills.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
